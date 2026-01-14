@@ -1,4 +1,4 @@
-## hey!
+## hey! welcome to my profile :)
 
 i'm batista, i'm a 20yr brazillian trying to figure out their career path.
 
