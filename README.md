@@ -4,7 +4,7 @@ i'm batista, i'm a 20yr brazillian trying to figure out their career path.
 
 i study at IFSULDEMINAS and i'm currently doing an exchange program at Sault College, in Canada.
 
-this profile is still kinda empty because i'm still working on my coding skills, and i don't have a good amount of nice projects to show to the world yet. but time will come and soon this will be filled with repos for you to see :)
+this profile is still kinda empty because i'm still working on my coding skills, and i don't have a good amount of nice projects to show to the world yet. but time will come and soon this will be filled with repos for you to see!
 
 <!--
 **batista-s/batista-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
